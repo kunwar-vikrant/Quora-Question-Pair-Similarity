@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="460" height="300" src="https://i1.wp.com/digest.myhq.in/wp-content/uploads/2018/10/quora1-e1543419626800.png?fit=796%2C416&ssl=1">
+  <img width="460" height="300" src="https://cdn.dribbble.com/users/445066/screenshots/3765376/quora-app-dark-ui---ask-a-question.gif">
 </p>
 
 <h1> 1. Business Problem </h1>
